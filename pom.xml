@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesoft.training</groupId>
-	<artifactId>maven-project-km</artifactId>
+	<artifactId>maven-project-km-01</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule maven-training Application</name>
@@ -19,7 +19,6 @@
 		<mule.version>3.8.0</mule.version>
 		<uid>kmacgill</uid>
 		<password>fakepassword</password>
-		
 	</properties>
 
 	<build>
